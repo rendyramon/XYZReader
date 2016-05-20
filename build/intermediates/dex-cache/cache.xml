@@ -26,7 +26,7 @@
         jar="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="52146d3756e4982cff8795453b70642eb08af5e9">
+        sha1="cd84e06b493e9ac440c1e983bd928ebea50bcf28">
         <dex dex="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c07e7d05b5b7ad62234e263d4ba59ff848c36429/classes.dex" />
     </item>
     <item
@@ -96,7 +96,7 @@
         jar="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="ebe6d6fbba61aa716d7054e5701ce9029e34bf7c">
+        sha1="f82a1c99588747595bc8a5d249c4ae7ea79d0a5c">
         <dex dex="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_66813052805015f822cc521e6de92a5d47341637/classes.dex" />
     </item>
     <item
