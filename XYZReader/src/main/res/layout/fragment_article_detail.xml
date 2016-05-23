@@ -59,8 +59,6 @@
                         style="?android:attr/textAppearanceLarge"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:fontFamily="sans-serif-condensed"
-                        android:lineSpacingMultiplier="0.9"
                         android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
                         android:textColor="#fff"
                         android:textSize="@dimen/detail_title_text_size"
@@ -84,8 +82,7 @@
                     android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
                     android:paddingBottom="@dimen/detail_body_bottom_margin"
                     android:textColor="@color/primary_material_dark"
-                    android:textColorLink="@color/accent_material_light"
-                    android:textSize="@dimen/detail_body_text_size"/>
+                    android:textColorLink="@color/accent_material_light"/>
 
             </com.example.xyzreader.ui.MaxWidthLinearLayout>
         </FrameLayout>
