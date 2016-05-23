@@ -4,7 +4,7 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="26505519766794" >
+    timestamp="29016859222850" >
 
     <task
         name="javac"
@@ -23,12 +23,26 @@
         location="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="25546727672147" >
+    <build timestamp="27813364949797" >
         <artifact
             location="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="26505519766794" >
+    <build
+        timestamp="28295398998489"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/builds/debug/28295398998489/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28627741613643"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/builds/debug/28627741613643/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="29016859222850" >
         <artifact
             location="/Users/dinosilvestro/Documents/AndroidProjects/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
